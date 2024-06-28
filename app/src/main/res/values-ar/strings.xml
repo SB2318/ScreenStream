@@ -71,4 +71,5 @@
     <string name="app_tab_about_privacy_policy">سياسة الخصوصية</string>
     <string name="app_tab_about_privacy_options">خيارات الخصوصية</string>
     <string name="app_tab_about_license">رخص</string>
+    <string name="app_name">تدفق الشاشة</string>
 </resources>
